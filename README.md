@@ -1,2 +1,2 @@
-# henki
+# hEnki
 hand-wired Enki
