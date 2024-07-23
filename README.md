@@ -39,7 +39,7 @@ ZMK config available [here](https://github.com/vrifmus/henki_zmk-config)
 
 # Models
 
-Files available in [releases](/releases)
+Files available in [releases](https://github.com/vrifmus/hEnki/releases)
 
 # Printing
 
