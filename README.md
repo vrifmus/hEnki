@@ -62,7 +62,7 @@ Top of case printing upside-down, bottom in normal orientation.
 
 ## Standoffs
 
-![Printing](images/printing.jpg)
+![Printing](images/standoffs.jpg)
 
 Insert screw in standoff, place on mount hole, using small force, wiggle it while he not place.
 Remove the screw and press it all the way in with something flat.
@@ -86,7 +86,7 @@ Form rows from other side of diode wires. Cut off the excess parts. Solder them.
 
 ## Columns
 
-![Columns](images/colums.jpg)
+![Columns](images/columns.jpg)
 
 Lift up the right half of the sockets. Using wires make the columns.
 Common length of wire, between sockets is 15mm. Thumb keys are shifted, length of the wires are higher, measure it.
@@ -94,7 +94,7 @@ Strip 2 mm of insulation from each side.
 
 ## Scheme
 
-![Scheme](imgaes/scheme.jpg)
+![Scheme](images/scheme.jpg)
 
 Bottom right pin unused in 36 key version.
 
