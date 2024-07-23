@@ -37,6 +37,10 @@ hEnki is my hand-wired implementation of Enki keyboard by [Aroum](https://github
 
 ZMK config available [here](https://github.com/vrifmus/henki_zmk-config)
 
+# Models
+
+Files available in [releases](/releases)
+
 # Printing
 
 ![Printing](images/printing.jpg)
@@ -88,7 +92,7 @@ Form rows from other side of diode wires. Cut off the excess parts. Solder them.
 
 ![Columns](images/columns.jpg)
 
-Lift up the right half of the sockets. Using wires make the columns.
+Lift up the right half of the sockets. Bend contacts, using wires make the columns.
 Common length of wire, between sockets is 15mm. Thumb keys are shifted, length of the wires are higher, measure it.
 Strip 2 mm of insulation from each side.
 
