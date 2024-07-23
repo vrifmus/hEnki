@@ -21,8 +21,9 @@ hEnki is my hand-wired implementation of Enki keyboard by [Aroum](https://github
 | Item                                                                   | Quantity | Remarks                              |
 | ---------------------------------------------------------------------- | -------: | ------------------------------------ |
 | [Switches](https://aliexpress.ru/item/32959996455.html)                | 36/42    | Kailh Choc V1                        |
-| [Sockets](https://aliexpress.ru/item/32901654130.html)                 | 36/42    | Kailh Choc V1 Hotswap Socket         |
 | [Keycaps](https://aliexpress.ru/item/33026798318.html)                 | 36/42    | 1U (choc spacing)                    |
+| [Sockets](https://aliexpress.ru/item/32901654130.html)                 | 36/42    | Kailh Choc V1 Hotswap Socket         |
+| Diodes                                                                 | 36/42    | 1N4148 DO-35                         |
 | [Controllers](https://aliexpress.ru/item/1005006035267231.html)        | 2        | Supermini NRF52840                   |
 | [Li Po Batteries](https://aliexpress.ru/item/1005001388585634.html)    | 2        | 100mAh 601120                        |
 | [Power sliders](https://aliexpress.ru/item/1005005471596185.html)      | 2        | BSI-10H                              |
@@ -30,7 +31,7 @@ hEnki is my hand-wired implementation of Enki keyboard by [Aroum](https://github
 | [Wires](https://aliexpress.ru/item/32947233235.html)                   | -        | UL1423 PTFE 28AWG                    |
 | [Standoffs](https://aliexpress.ru/item/32968906213.html)               | 12/16    | m2x4                                 |
 | [Screws](https://aliexpress.ru/item/1005004494509456.html)             | 12/16    | m2x4                                 |
-| [Magnets](https://aliexpress.ru/item/1005004252873806.html)            | 7/14     | 15x8x1mm                             |
+| [Magnets](https://aliexpress.ru/item/1005004252873806.html)            | 14       | 15x8x1mm                             |
 | [Bumpons](https://aliexpress.ru/item/1005004784336863.html)            | 16       | 8x2mm                                |
 
 # Frimware
