@@ -32,7 +32,7 @@ hEnki is my hand-wired implementation of Enki keyboard by [Aroum](https://github
 | [Standoffs](https://aliexpress.ru/item/32968906213.html)               | 12/16    | m2x4                                 |
 | [Screws](https://aliexpress.ru/item/1005004494509456.html)             | 12/16    | m2x4                                 |
 | [Magnets](https://aliexpress.ru/item/1005004252873806.html)            | 14       | 15x8x1mm                             |
-| [Bumpons](https://aliexpress.ru/item/1005004784336863.html)            | 16       | 8x2mm                                |
+| [Bumpons](https://aliexpress.ru/item/1005004784336863.html?sku_id=12000030475295974)        | 16       | 5x2mm                                |
 
 # Frimware
 
